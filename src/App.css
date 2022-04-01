@@ -1,0 +1,21 @@
+*{
+  
+}
+
+.ul-list{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.button{
+  display: flex;
+  padding: 5px 20px;
+  margin: 5vh auto;
+  border-radius: 10px;
+  background-color: grey;
+  color: white;
+}
+.li-list{
+  display: flex;
+  justify-content: center;
+}
